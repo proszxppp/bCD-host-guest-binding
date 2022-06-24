@@ -5,6 +5,6 @@ The translational diffusion of the guest is accelerated, and the binding/unbindi
 
 The asymmetric structure of the host leads to the directionalized guest coordination behavior. This primary-secondary equilibrium is taken into consideration in the computation of binding affinity, and the relative stability of the primary- and secondary-binding modes is calculated. 
 
-The preprint version of the paper can be found at 
+The preprint version of the paper can be found at https://chemrxiv.org/engage/chemrxiv/article-details/62a73908a784d12fca7d01e5
 
 
